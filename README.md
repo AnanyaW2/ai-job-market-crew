@@ -2,8 +2,8 @@
 
 A multi-agent system (built with [CrewAI](https://www.crewai.com/)) that automates the kind of exploratory analysis I originally did by hand for my [AI & Data Job Market Tableau dashboard](../ai-data-job-market-analysis) — turning a raw CSV of 1,500 job postings into a written executive summary, with three specialized agents each handling one stage of the pipeline.
 
-**Live dashboard for the same dataset:** [Tableau Public link]
-**Portfolio write-up:** [Your portfolio site link]
+**Live dashboard for the same dataset:** (https://public.tableau.com/app/profile/ananya.wadhwa/viz/AIandDataJobMarketAnalysis2025-2026/Overview)
+**Portfolio write-up:** (https://ananyaw.netlify.app/)
 
 ---
 
